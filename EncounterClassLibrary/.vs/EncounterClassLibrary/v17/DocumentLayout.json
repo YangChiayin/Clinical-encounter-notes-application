@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\1965Assignment\\A3\\ChiayinYanpingA3\\ChiayinYanpingA3\\EncounterClassLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{81115BCF-5E6C-4F79-AE99-5D085AA27266}|EncounterClassLibrary\\EncounterClassLibrary.csproj|e:\\1965assignment\\a3\\chiayinyanpinga3\\chiayinyanpinga3\\encounterclasslibrary\\encounterclasslibrary\\manageclinicalnotes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81115BCF-5E6C-4F79-AE99-5D085AA27266}|EncounterClassLibrary\\EncounterClassLibrary.csproj|solutionrelative:encounterclasslibrary\\manageclinicalnotes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81115BCF-5E6C-4F79-AE99-5D085AA27266}|EncounterClassLibrary\\EncounterClassLibrary.csproj|E:\\1965Assignment\\A3\\ChiayinYanpingA3\\ChiayinYanpingA3\\EncounterClassLibrary\\encounterclasslibrary\\clinicalnote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81115BCF-5E6C-4F79-AE99-5D085AA27266}|EncounterClassLibrary\\EncounterClassLibrary.csproj|solutionrelative:encounterclasslibrary\\clinicalnote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 288,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ManageClinicalNotes.cs",
+              "DocumentMoniker": "E:\\1965Assignment\\A3\\ChiayinYanpingA3\\ChiayinYanpingA3\\EncounterClassLibrary\\EncounterClassLibrary\\ManageClinicalNotes.cs",
+              "RelativeDocumentMoniker": "EncounterClassLibrary\\ManageClinicalNotes.cs",
+              "ToolTip": "E:\\1965Assignment\\A3\\ChiayinYanpingA3\\ChiayinYanpingA3\\EncounterClassLibrary\\EncounterClassLibrary\\ManageClinicalNotes.cs",
+              "RelativeToolTip": "EncounterClassLibrary\\ManageClinicalNotes.cs",
+              "ViewState": "AQIAAKEAAAAAAAAAAAAhwKwAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T00:34:25.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClinicalNote.cs",
+              "DocumentMoniker": "E:\\1965Assignment\\A3\\ChiayinYanpingA3\\ChiayinYanpingA3\\EncounterClassLibrary\\EncounterClassLibrary\\ClinicalNote.cs",
+              "RelativeDocumentMoniker": "EncounterClassLibrary\\ClinicalNote.cs",
+              "ToolTip": "E:\\1965Assignment\\A3\\ChiayinYanpingA3\\ChiayinYanpingA3\\EncounterClassLibrary\\EncounterClassLibrary\\ClinicalNote.cs",
+              "RelativeToolTip": "EncounterClassLibrary\\ClinicalNote.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T23:23:08.69Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

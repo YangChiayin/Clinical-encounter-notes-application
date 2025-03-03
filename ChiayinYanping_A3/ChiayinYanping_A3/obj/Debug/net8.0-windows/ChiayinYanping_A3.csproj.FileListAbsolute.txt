@@ -1,0 +1,80 @@
+C:\CP\1965All\ChiayinYanpingA3\ChiayinYanping_A3\ChiayinYanping_A3\bin\Debug\net8.0-windows\ChiayinYanping_A3.exe
+C:\CP\1965All\ChiayinYanpingA3\ChiayinYanping_A3\ChiayinYanping_A3\bin\Debug\net8.0-windows\ChiayinYanping_A3.deps.json
+C:\CP\1965All\ChiayinYanpingA3\ChiayinYanping_A3\ChiayinYanping_A3\bin\Debug\net8.0-windows\ChiayinYanping_A3.runtimeconfig.json
+C:\CP\1965All\ChiayinYanpingA3\ChiayinYanping_A3\ChiayinYanping_A3\bin\Debug\net8.0-windows\ChiayinYanping_A3.dll
+C:\CP\1965All\ChiayinYanpingA3\ChiayinYanping_A3\ChiayinYanping_A3\bin\Debug\net8.0-windows\ChiayinYanping_A3.pdb
+C:\CP\1965All\ChiayinYanpingA3\ChiayinYanping_A3\ChiayinYanping_A3\obj\Debug\net8.0-windows\ChiayinYanping_A3.EncounterForm.resources
+C:\CP\1965All\ChiayinYanpingA3\ChiayinYanping_A3\ChiayinYanping_A3\obj\Debug\net8.0-windows\ChiayinYanping_A3.csproj.GenerateResource.cache
+C:\CP\1965All\ChiayinYanpingA3\ChiayinYanping_A3\ChiayinYanping_A3\obj\Debug\net8.0-windows\ChiayinYanping_A3.GeneratedMSBuildEditorConfig.editorconfig
+C:\CP\1965All\ChiayinYanpingA3\ChiayinYanping_A3\ChiayinYanping_A3\obj\Debug\net8.0-windows\ChiayinYanping_A3.AssemblyInfoInputs.cache
+C:\CP\1965All\ChiayinYanpingA3\ChiayinYanping_A3\ChiayinYanping_A3\obj\Debug\net8.0-windows\ChiayinYanping_A3.AssemblyInfo.cs
+C:\CP\1965All\ChiayinYanpingA3\ChiayinYanping_A3\ChiayinYanping_A3\obj\Debug\net8.0-windows\ChiayinYanping_A3.csproj.CoreCompileInputs.cache
+C:\CP\1965All\ChiayinYanpingA3\ChiayinYanping_A3\ChiayinYanping_A3\obj\Debug\net8.0-windows\ChiayinYanping_A3.dll
+C:\CP\1965All\ChiayinYanpingA3\ChiayinYanping_A3\ChiayinYanping_A3\obj\Debug\net8.0-windows\refint\ChiayinYanping_A3.dll
+C:\CP\1965All\ChiayinYanpingA3\ChiayinYanping_A3\ChiayinYanping_A3\obj\Debug\net8.0-windows\ChiayinYanping_A3.pdb
+C:\CP\1965All\ChiayinYanpingA3\ChiayinYanping_A3\ChiayinYanping_A3\obj\Debug\net8.0-windows\ChiayinYanping_A3.genruntimeconfig.cache
+C:\CP\1965All\ChiayinYanpingA3\ChiayinYanping_A3\ChiayinYanping_A3\obj\Debug\net8.0-windows\ref\ChiayinYanping_A3.dll
+C:\CP\1965All\ChiayinYanpingA3\ChiayinYanping_A3\ChiayinYanping_A3\bin\Debug\net8.0-windows\EncounterClassLibrary.dll
+C:\CP\1965All\ChiayinYanpingA3\ChiayinYanping_A3\ChiayinYanping_A3\bin\Debug\net8.0-windows\EncounterClassLibrary.pdb
+C:\CP\1965All\ChiayinYanpingA3\ChiayinYanping_A3\ChiayinYanping_A3\obj\Debug\net8.0-windows\ChiayinYanping_A3.csproj.AssemblyReference.cache
+C:\CP\1965All\ChiayinYanpingA3\ChiayinYanping_A3\ChiayinYanping_A3\obj\Debug\net8.0-windows\ChiayinY.D71F2EC0.Up2Date
+E:\1965Assignment\A3\ChiayinYanpingA3\ChiayinYanpingA3\ChiayinYanping_A3\ChiayinYanping_A3\bin\Debug\net8.0-windows\ChiayinYanping_A3.exe
+E:\1965Assignment\A3\ChiayinYanpingA3\ChiayinYanpingA3\ChiayinYanping_A3\ChiayinYanping_A3\bin\Debug\net8.0-windows\ChiayinYanping_A3.deps.json
+E:\1965Assignment\A3\ChiayinYanpingA3\ChiayinYanpingA3\ChiayinYanping_A3\ChiayinYanping_A3\bin\Debug\net8.0-windows\ChiayinYanping_A3.runtimeconfig.json
+E:\1965Assignment\A3\ChiayinYanpingA3\ChiayinYanpingA3\ChiayinYanping_A3\ChiayinYanping_A3\bin\Debug\net8.0-windows\ChiayinYanping_A3.dll
+E:\1965Assignment\A3\ChiayinYanpingA3\ChiayinYanpingA3\ChiayinYanping_A3\ChiayinYanping_A3\bin\Debug\net8.0-windows\ChiayinYanping_A3.pdb
+E:\1965Assignment\A3\ChiayinYanpingA3\ChiayinYanpingA3\ChiayinYanping_A3\ChiayinYanping_A3\bin\Debug\net8.0-windows\EncounterClassLibrary.dll
+E:\1965Assignment\A3\ChiayinYanpingA3\ChiayinYanpingA3\ChiayinYanping_A3\ChiayinYanping_A3\bin\Debug\net8.0-windows\EncounterClassLibrary.pdb
+E:\1965Assignment\A3\ChiayinYanpingA3\ChiayinYanpingA3\ChiayinYanping_A3\ChiayinYanping_A3\obj\Debug\net8.0-windows\ChiayinYanping_A3.csproj.AssemblyReference.cache
+E:\1965Assignment\A3\ChiayinYanpingA3\ChiayinYanpingA3\ChiayinYanping_A3\ChiayinYanping_A3\obj\Debug\net8.0-windows\ChiayinYanping_A3.EncounterForm.resources
+E:\1965Assignment\A3\ChiayinYanpingA3\ChiayinYanpingA3\ChiayinYanping_A3\ChiayinYanping_A3\obj\Debug\net8.0-windows\ChiayinYanping_A3.csproj.GenerateResource.cache
+E:\1965Assignment\A3\ChiayinYanpingA3\ChiayinYanpingA3\ChiayinYanping_A3\ChiayinYanping_A3\obj\Debug\net8.0-windows\ChiayinYanping_A3.GeneratedMSBuildEditorConfig.editorconfig
+E:\1965Assignment\A3\ChiayinYanpingA3\ChiayinYanpingA3\ChiayinYanping_A3\ChiayinYanping_A3\obj\Debug\net8.0-windows\ChiayinYanping_A3.AssemblyInfoInputs.cache
+E:\1965Assignment\A3\ChiayinYanpingA3\ChiayinYanpingA3\ChiayinYanping_A3\ChiayinYanping_A3\obj\Debug\net8.0-windows\ChiayinYanping_A3.AssemblyInfo.cs
+E:\1965Assignment\A3\ChiayinYanpingA3\ChiayinYanpingA3\ChiayinYanping_A3\ChiayinYanping_A3\obj\Debug\net8.0-windows\ChiayinYanping_A3.csproj.CoreCompileInputs.cache
+E:\1965Assignment\A3\ChiayinYanpingA3\ChiayinYanpingA3\ChiayinYanping_A3\ChiayinYanping_A3\obj\Debug\net8.0-windows\ChiayinY.D71F2EC0.Up2Date
+E:\1965Assignment\A3\ChiayinYanpingA3\ChiayinYanpingA3\ChiayinYanping_A3\ChiayinYanping_A3\obj\Debug\net8.0-windows\ChiayinYanping_A3.dll
+E:\1965Assignment\A3\ChiayinYanpingA3\ChiayinYanpingA3\ChiayinYanping_A3\ChiayinYanping_A3\obj\Debug\net8.0-windows\refint\ChiayinYanping_A3.dll
+E:\1965Assignment\A3\ChiayinYanpingA3\ChiayinYanpingA3\ChiayinYanping_A3\ChiayinYanping_A3\obj\Debug\net8.0-windows\ChiayinYanping_A3.pdb
+E:\1965Assignment\A3\ChiayinYanpingA3\ChiayinYanpingA3\ChiayinYanping_A3\ChiayinYanping_A3\obj\Debug\net8.0-windows\ChiayinYanping_A3.genruntimeconfig.cache
+E:\1965Assignment\A3\ChiayinYanpingA3\ChiayinYanpingA3\ChiayinYanping_A3\ChiayinYanping_A3\obj\Debug\net8.0-windows\ref\ChiayinYanping_A3.dll
+C:\Users\Chiayin\source\repos\Programming Concept II\ChiayinYanpingA3\ChiayinYanping_A3\ChiayinYanping_A3\bin\Debug\net8.0-windows\ChiayinYanping_A3.exe
+C:\Users\Chiayin\source\repos\Programming Concept II\ChiayinYanpingA3\ChiayinYanping_A3\ChiayinYanping_A3\bin\Debug\net8.0-windows\ChiayinYanping_A3.deps.json
+C:\Users\Chiayin\source\repos\Programming Concept II\ChiayinYanpingA3\ChiayinYanping_A3\ChiayinYanping_A3\bin\Debug\net8.0-windows\ChiayinYanping_A3.runtimeconfig.json
+C:\Users\Chiayin\source\repos\Programming Concept II\ChiayinYanpingA3\ChiayinYanping_A3\ChiayinYanping_A3\bin\Debug\net8.0-windows\ChiayinYanping_A3.dll
+C:\Users\Chiayin\source\repos\Programming Concept II\ChiayinYanpingA3\ChiayinYanping_A3\ChiayinYanping_A3\bin\Debug\net8.0-windows\ChiayinYanping_A3.pdb
+C:\Users\Chiayin\source\repos\Programming Concept II\ChiayinYanpingA3\ChiayinYanping_A3\ChiayinYanping_A3\bin\Debug\net8.0-windows\EncounterClassLibrary.dll
+C:\Users\Chiayin\source\repos\Programming Concept II\ChiayinYanpingA3\ChiayinYanping_A3\ChiayinYanping_A3\bin\Debug\net8.0-windows\EncounterClassLibrary.pdb
+C:\Users\Chiayin\source\repos\Programming Concept II\ChiayinYanpingA3\ChiayinYanping_A3\ChiayinYanping_A3\obj\Debug\net8.0-windows\ChiayinYanping_A3.csproj.AssemblyReference.cache
+C:\Users\Chiayin\source\repos\Programming Concept II\ChiayinYanpingA3\ChiayinYanping_A3\ChiayinYanping_A3\obj\Debug\net8.0-windows\ChiayinYanping_A3.EncounterForm.resources
+C:\Users\Chiayin\source\repos\Programming Concept II\ChiayinYanpingA3\ChiayinYanping_A3\ChiayinYanping_A3\obj\Debug\net8.0-windows\ChiayinYanping_A3.csproj.GenerateResource.cache
+C:\Users\Chiayin\source\repos\Programming Concept II\ChiayinYanpingA3\ChiayinYanping_A3\ChiayinYanping_A3\obj\Debug\net8.0-windows\ChiayinYanping_A3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chiayin\source\repos\Programming Concept II\ChiayinYanpingA3\ChiayinYanping_A3\ChiayinYanping_A3\obj\Debug\net8.0-windows\ChiayinYanping_A3.AssemblyInfoInputs.cache
+C:\Users\Chiayin\source\repos\Programming Concept II\ChiayinYanpingA3\ChiayinYanping_A3\ChiayinYanping_A3\obj\Debug\net8.0-windows\ChiayinYanping_A3.AssemblyInfo.cs
+C:\Users\Chiayin\source\repos\Programming Concept II\ChiayinYanpingA3\ChiayinYanping_A3\ChiayinYanping_A3\obj\Debug\net8.0-windows\ChiayinYanping_A3.csproj.CoreCompileInputs.cache
+C:\Users\Chiayin\source\repos\Programming Concept II\ChiayinYanpingA3\ChiayinYanping_A3\ChiayinYanping_A3\obj\Debug\net8.0-windows\ChiayinY.D71F2EC0.Up2Date
+C:\Users\Chiayin\source\repos\Programming Concept II\ChiayinYanpingA3\ChiayinYanping_A3\ChiayinYanping_A3\obj\Debug\net8.0-windows\ChiayinYanping_A3.dll
+C:\Users\Chiayin\source\repos\Programming Concept II\ChiayinYanpingA3\ChiayinYanping_A3\ChiayinYanping_A3\obj\Debug\net8.0-windows\refint\ChiayinYanping_A3.dll
+C:\Users\Chiayin\source\repos\Programming Concept II\ChiayinYanpingA3\ChiayinYanping_A3\ChiayinYanping_A3\obj\Debug\net8.0-windows\ChiayinYanping_A3.pdb
+C:\Users\Chiayin\source\repos\Programming Concept II\ChiayinYanpingA3\ChiayinYanping_A3\ChiayinYanping_A3\obj\Debug\net8.0-windows\ChiayinYanping_A3.genruntimeconfig.cache
+C:\Users\Chiayin\source\repos\Programming Concept II\ChiayinYanpingA3\ChiayinYanping_A3\ChiayinYanping_A3\obj\Debug\net8.0-windows\ref\ChiayinYanping_A3.dll
+D:\Conestoga_Courses\2024_level_2\Programming Concept II\ChiayinYanpingA3\ChiayinYanping_A3\ChiayinYanping_A3\bin\Debug\net8.0-windows\ChiayinYanping_A3.exe
+D:\Conestoga_Courses\2024_level_2\Programming Concept II\ChiayinYanpingA3\ChiayinYanping_A3\ChiayinYanping_A3\bin\Debug\net8.0-windows\ChiayinYanping_A3.deps.json
+D:\Conestoga_Courses\2024_level_2\Programming Concept II\ChiayinYanpingA3\ChiayinYanping_A3\ChiayinYanping_A3\bin\Debug\net8.0-windows\ChiayinYanping_A3.runtimeconfig.json
+D:\Conestoga_Courses\2024_level_2\Programming Concept II\ChiayinYanpingA3\ChiayinYanping_A3\ChiayinYanping_A3\bin\Debug\net8.0-windows\ChiayinYanping_A3.dll
+D:\Conestoga_Courses\2024_level_2\Programming Concept II\ChiayinYanpingA3\ChiayinYanping_A3\ChiayinYanping_A3\bin\Debug\net8.0-windows\ChiayinYanping_A3.pdb
+D:\Conestoga_Courses\2024_level_2\Programming Concept II\ChiayinYanpingA3\ChiayinYanping_A3\ChiayinYanping_A3\bin\Debug\net8.0-windows\EncounterClassLibrary.dll
+D:\Conestoga_Courses\2024_level_2\Programming Concept II\ChiayinYanpingA3\ChiayinYanping_A3\ChiayinYanping_A3\bin\Debug\net8.0-windows\EncounterClassLibrary.pdb
+D:\Conestoga_Courses\2024_level_2\Programming Concept II\ChiayinYanpingA3\ChiayinYanping_A3\ChiayinYanping_A3\obj\Debug\net8.0-windows\ChiayinYanping_A3.csproj.AssemblyReference.cache
+D:\Conestoga_Courses\2024_level_2\Programming Concept II\ChiayinYanpingA3\ChiayinYanping_A3\ChiayinYanping_A3\obj\Debug\net8.0-windows\ChiayinYanping_A3.EncounterForm.resources
+D:\Conestoga_Courses\2024_level_2\Programming Concept II\ChiayinYanpingA3\ChiayinYanping_A3\ChiayinYanping_A3\obj\Debug\net8.0-windows\ChiayinYanping_A3.csproj.GenerateResource.cache
+D:\Conestoga_Courses\2024_level_2\Programming Concept II\ChiayinYanpingA3\ChiayinYanping_A3\ChiayinYanping_A3\obj\Debug\net8.0-windows\ChiayinYanping_A3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Conestoga_Courses\2024_level_2\Programming Concept II\ChiayinYanpingA3\ChiayinYanping_A3\ChiayinYanping_A3\obj\Debug\net8.0-windows\ChiayinYanping_A3.AssemblyInfoInputs.cache
+D:\Conestoga_Courses\2024_level_2\Programming Concept II\ChiayinYanpingA3\ChiayinYanping_A3\ChiayinYanping_A3\obj\Debug\net8.0-windows\ChiayinYanping_A3.AssemblyInfo.cs
+D:\Conestoga_Courses\2024_level_2\Programming Concept II\ChiayinYanpingA3\ChiayinYanping_A3\ChiayinYanping_A3\obj\Debug\net8.0-windows\ChiayinYanping_A3.csproj.CoreCompileInputs.cache
+D:\Conestoga_Courses\2024_level_2\Programming Concept II\ChiayinYanpingA3\ChiayinYanping_A3\ChiayinYanping_A3\obj\Debug\net8.0-windows\ChiayinY.D71F2EC0.Up2Date
+D:\Conestoga_Courses\2024_level_2\Programming Concept II\ChiayinYanpingA3\ChiayinYanping_A3\ChiayinYanping_A3\obj\Debug\net8.0-windows\ChiayinYanping_A3.dll
+D:\Conestoga_Courses\2024_level_2\Programming Concept II\ChiayinYanpingA3\ChiayinYanping_A3\ChiayinYanping_A3\obj\Debug\net8.0-windows\refint\ChiayinYanping_A3.dll
+D:\Conestoga_Courses\2024_level_2\Programming Concept II\ChiayinYanpingA3\ChiayinYanping_A3\ChiayinYanping_A3\obj\Debug\net8.0-windows\ChiayinYanping_A3.pdb
+D:\Conestoga_Courses\2024_level_2\Programming Concept II\ChiayinYanpingA3\ChiayinYanping_A3\ChiayinYanping_A3\obj\Debug\net8.0-windows\ChiayinYanping_A3.genruntimeconfig.cache
+D:\Conestoga_Courses\2024_level_2\Programming Concept II\ChiayinYanpingA3\ChiayinYanping_A3\ChiayinYanping_A3\obj\Debug\net8.0-windows\ref\ChiayinYanping_A3.dll
